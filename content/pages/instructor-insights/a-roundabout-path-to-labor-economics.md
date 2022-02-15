@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 6cc29a02-786f-cd02-3c7e-721b29770e51
 title: A Roundabout Path to Labor Economics
 uid: edbb8212-9417-de92-1df5-aa8da4242227

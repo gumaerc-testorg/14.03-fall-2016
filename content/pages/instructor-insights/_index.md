@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 6cc29a02-786f-cd02-3c7e-721b29770e51
 ---
@@ -37,20 +39,6 @@ GIR ![](/images/educator/icon-question-gir.png)
 ### Offered
 
 Every spring and fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Five rows of tables with chairs facing a chalkboard. A window is on the side wall of the classroom.]({{< resource_file 279784c6-f091-ea19-c669-f7bd3193f104 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Lectures were held in a classroom with tiered seating, a sliding chalkboard, and video sound system.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

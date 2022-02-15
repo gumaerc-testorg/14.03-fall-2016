@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding recitation 5.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-03-microeconomic-theory-and-public-policy-fall-2016/427890084831bb4697177e2eb4d4cfe5_MIT14_03F16_Recitation5a.pdf
+file: /media/courses/14-03-microeconomic-theory-and-public-policy-fall-2016/427890084831bb4697177e2eb4d4cfe5_MIT14_03F16_Recitation5a.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: '14.03 F16 Recitation 5: General Equilibrium Practice Problem'
 uid: 42789008-4831-bb46-9717-7e2eb4d4cfe5

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 18f55944-17fd-c178-73f7-801714afe822
 title: Practice Problems
 uid: a4b9d9c8-71a8-ef06-b762-8cae319cfd85
