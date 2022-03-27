@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f27a70b4-7bee-6919-9421-d31f0705bfa3
 resourcetype: Document
 title: 14.03/14.003 Fall 2016 United States Sugar Program Notes.
 uid: 079b991c-bbc1-d1a8-40e1-9fd08194ea7e

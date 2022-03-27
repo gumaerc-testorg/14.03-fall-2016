@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 74c3d92d-d97c-052f-9202-28181ad3045e
 resourcetype: Document
 title: '14.03 F16 Recitation 5: General Equilibrium Practice Problem'
 uid: 42789008-4831-bb46-9717-7e2eb4d4cfe5

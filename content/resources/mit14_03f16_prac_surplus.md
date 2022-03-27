@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Practice Problems
 parent_type: CourseSection
+parent_uid: a4b9d9c8-71a8-ef06-b762-8cae319cfd85
 resourcetype: Document
 title: 14.03 Fall 2016 Practice Problems on Surplus and Edgeworth Boxes
 uid: 9546d8df-5ca6-0f7b-8279-7f849f3206fe

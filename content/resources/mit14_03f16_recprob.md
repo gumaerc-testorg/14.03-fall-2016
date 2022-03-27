@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 74c3d92d-d97c-052f-9202-28181ad3045e
 resourcetype: Document
 title: 14.03 F16 Recitation Practice Problems
 uid: f482ae7a-0e58-72cd-03aa-91f3a12c47e8

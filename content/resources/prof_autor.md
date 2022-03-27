@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 6cc29a02-786f-cd02-3c7e-721b29770e51
 resourcetype: Image
 title: Prof_Autor.jpg
 uid: 4c60c95b-c48b-25ae-af7b-5550b332877d

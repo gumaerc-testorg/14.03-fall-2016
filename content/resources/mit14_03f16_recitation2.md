@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 74c3d92d-d97c-052f-9202-28181ad3045e
 resourcetype: Document
 title: 14.03 Fall 2016 Recitation 2 Slides
 uid: cf5cd26b-6662-0645-d43d-97cbba8513ad

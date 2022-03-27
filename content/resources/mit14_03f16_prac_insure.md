@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Practice Problems
 parent_type: CourseSection
+parent_uid: a4b9d9c8-71a8-ef06-b762-8cae319cfd85
 resourcetype: Document
 title: 14.03 Fall 2016 Practice Problems for Insurance  and Signaling
 uid: ff2479e4-6f0a-64db-bfdc-f93efc8f3d78
