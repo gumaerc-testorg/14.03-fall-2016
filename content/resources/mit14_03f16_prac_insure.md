@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-03-microeconomic-theory-and-public-policy-fall-2016/ff2479e46f0a64dbbfdcf93efc8f3d78_MIT14_03F16_prac_insure.pdf
+file: /courses/14-03-microeconomic-theory-and-public-policy-fall-2016/ff2479e46f0a64dbbfdcf93efc8f3d78_MIT14_03F16_prac_insure.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
