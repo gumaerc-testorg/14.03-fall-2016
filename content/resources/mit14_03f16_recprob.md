@@ -5,6 +5,7 @@ file: /courses/14-03-microeconomic-theory-and-public-policy-fall-2016/f482ae7a0e
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection

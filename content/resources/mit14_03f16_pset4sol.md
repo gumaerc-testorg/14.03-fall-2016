@@ -4,6 +4,7 @@ description: ''
 file: /courses/14-03-microeconomic-theory-and-public-policy-fall-2016/d3b01e64e40e49bb19876b16e05080a6_MIT14_03F16_pset4sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Practice Problems
 parent_type: CourseSection

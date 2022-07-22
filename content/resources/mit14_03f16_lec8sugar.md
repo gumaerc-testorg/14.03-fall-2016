@@ -6,6 +6,7 @@ file: /courses/14-03-microeconomic-theory-and-public-policy-fall-2016/079b991cbb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 14.03/14.003 Fall 2016 United States Sugar Program Notes.
 uid: 079b991c-bbc1-d1a8-40e1-9fd08194ea7e
 ---
 This file contains information regarding the United States sugar program: Notes for class preparation.
-
