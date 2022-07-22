@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: 'In this section, Professor David Autor describes two common misconceptions
+  about economics that students tend to bring to the course. '
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 6cc29a02-786f-cd02-3c7e-721b29770e51
 title: Common Misconceptions about Economics
 uid: b54c8f02-fe71-58f1-ae5b-8ed7ea1a53b8

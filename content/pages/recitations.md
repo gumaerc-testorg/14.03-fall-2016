@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains materials used during the class'' recitation sessions. '
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 title: Recitations
 uid: 74c3d92d-d97c-052f-9202-28181ad3045e
 ---
@@ -24,7 +28,7 @@ FILES
 Regression Review
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 1 Slides (PDF)]({{< baseurl >}}/resources/mit14_03f16_recitation1)
+{{% resource_link 1821d52b-5dcd-bf9a-7554-22d837072483 "Recitation 1 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +37,7 @@ Regression Review
 Merging Counterfactuals and Regressions
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 2 Slides (PDF)]({{< baseurl >}}/resources/mit14_03f16_recitation2)
+{{% resource_link cf5cd26b-6662-0645-d43d-97cbba8513ad "Recitation 2 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +46,7 @@ Merging Counterfactuals and Regressions
 Review of Income and Substitution Effects and Demand Curves
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 3 Slides (PDF)]({{< baseurl >}}/resources/mit14_03f16_recitation3)
+{{% resource_link d4e4584a-a59f-9831-15c3-f25cac411e6e "Recitation 3 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +55,7 @@ Review of Income and Substitution Effects and Demand Curves
 General Equilibrium Practice Problem
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 5 Practice Problem (PDF)]({{< baseurl >}}/resources/mit14_03f16_recitation5a)
+{{% resource_link 42789008-4831-bb46-9717-7e2eb4d4cfe5 "Recitation 5 Practice Problem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +64,7 @@ General Equilibrium Practice Problem
 Recitation Practice Problems with Solutions
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation Practice Problems Handout (PDF)]({{< baseurl >}}/resources/mit14_03f16_recprob)
+{{% resource_link f482ae7a-0e58-72cd-03aa-91f3a12c47e8 "Recitation Practice Problems Handout (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
