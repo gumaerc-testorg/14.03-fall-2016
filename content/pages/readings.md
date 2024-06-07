@@ -85,7 +85,7 @@ Holland, Paul W. "[Statistics and Causal Inference](http://www.jstor.org/stable/
 
 - Card and Krueger
 - Findings and interpretations
-- Overview of 14.03 / 14.003: Substance and themes   
+- Overview of 14.03 / 14.003: Substance and themes    
       
     - What is economic theory for?
     - Causality: How do we know it, how we test it?
@@ -137,7 +137,7 @@ Holland, Paul W. "[Statistics and Causal Inference](http://www.jstor.org/stable/
 
 ### Required Reading
 
-\*Waldfogel, Joel. ["The Deadweight Loss of Christmas." (PDF)](http://blog.bearing-consulting.com/wp-content/uploads/2012/12/Waldfogel.-.Deadweight.Loss_.of_.Christmas.pdf) *The American Economic Review* 83, no. 5 (1983): 1328–36.
+\*Waldfogel, Joel. "[The Deadweight Loss of Christmas](https://www.jstor.org/stable/2117564)." *The American Economic Review* 83, no. 5 (1983): 1328–36.
 
 Thompson, Derek. "[If Economists Wrote Christmas Cards](https://www.theatlantic.com/business/archive/2013/12/if-economists-wrote-christmas-cards/282493/)." *The Atlantic*, December 2013, 1–4.
 
