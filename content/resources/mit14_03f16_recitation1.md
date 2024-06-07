@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-03-microeconomic-theory-and-public-policy-fall-2016/1821d52b5dcdbf9a755422d837072483_MIT14_03F16_Recitation1.pdf
+file_size: 270195
 file_type: application/pdf
 learning_resource_types:
 - Recitations
