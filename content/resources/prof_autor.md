@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-03-microeconomic-theory-and-public-policy-fall-2016/4c60c95bc48b25aeaf7b5550b332877d_Prof_Autor.jpg
+file_size: 102075
 file_type: image/jpeg
 image_metadata:
   caption: ''
