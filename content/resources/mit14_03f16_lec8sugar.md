@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding the United States sugar program:
   Notes for class preparation.'
-file: /courses/14-03-microeconomic-theory-and-public-policy-fall-2016/079b991cbbc1d1a840e19fd08194ea7e_MIT14_03F16_lec8Sugar.pdf
+file: /ol-ocw-studio-app/courses/14-03-microeconomic-theory-and-public-policy-fall-2016/079b991cbbc1d1a840e19fd08194ea7e_MIT14_03F16_lec8Sugar.pdf
 file_size: 135347
 file_type: application/pdf
 learning_resource_types:
