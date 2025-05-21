@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding practice problems for consumer
   surplus and edgeworth boxes.
-file: /ol-ocw-studio-app/courses/14-03-microeconomic-theory-and-public-policy-fall-2016/9546d8df5ca60f7b82797f849f3206fe_MIT14_03F16_prac_surplus.pdf
+file: /courses/14-03-microeconomic-theory-and-public-policy-fall-2016/9546d8df5ca60f7b82797f849f3206fe_MIT14_03F16_prac_surplus.pdf
 file_size: 1224912
 file_type: application/pdf
 learning_resource_types: []

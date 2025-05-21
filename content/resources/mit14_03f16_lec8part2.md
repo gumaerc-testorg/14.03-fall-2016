@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding parts2: Applying consumer theory
   to competitive markets-the United States sugar program.'
-file: /ol-ocw-studio-app/courses/14-03-microeconomic-theory-and-public-policy-fall-2016/8404271019b4c37286f14000d68dd514_MIT14_03F16_lec8Part2.pdf
+file: /courses/14-03-microeconomic-theory-and-public-policy-fall-2016/8404271019b4c37286f14000d68dd514_MIT14_03F16_lec8Part2.pdf
 file_size: 397736
 file_type: application/pdf
 learning_resource_types:

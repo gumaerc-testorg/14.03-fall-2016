@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-03-microeconomic-theory-and-public-policy-fall-2016/279784c6f091ea19c669f7bd3193f104_classroom-14-03-comp.jpg
+file: /courses/14-03-microeconomic-theory-and-public-policy-fall-2016/279784c6f091ea19c669f7bd3193f104_classroom-14-03-comp.jpg
 file_size: 12326
 file_type: image/jpeg
 image_metadata:
