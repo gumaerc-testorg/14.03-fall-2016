@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-03-microeconomic-theory-and-public-policy-fall-2016/d4e4584aa59f983115c3f25cac411e6e_MIT14_03F16_Recitation3.pdf
+file: /courses/14-03-microeconomic-theory-and-public-policy-fall-2016/d4e4584aa59f983115c3f25cac411e6e_MIT14_03F16_Recitation3.pdf
 file_size: 189315
 file_type: application/pdf
 learning_resource_types:
