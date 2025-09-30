@@ -25,9 +25,9 @@ Recommended Books
 
 For for the first time ever, I'm pleased to include two new texts on the syllabus. Both are lucid, bull-shit free, and occasionally amusing, and available in paperback.
 
-Banerjee, Samiran. _Intermediate Microeconomics: A Tool-Building Approach_. 1st ed. Routledge, 2014. ISBN: 9780415870054. \[Preview with [Google Books](http://books.google.com/books?id=oCiDBAAAQBAJ&pg=PAfrontcover)\]
+Banerjee, Samiran. _Intermediate Microeconomics: A Tool-Building Approach_. 1st ed. Routledge, 2014. ISBN: 9780415870054. \[Preview with {{% resource_link "1b2fcefd-f597-4679-aa2f-c14442f3a556" "Google Books" %}}\]
 
-Angrist, Joshua D., and Jörn-Steffen Pischke. _Mastering 'Metrics: The Path from Cause to Effect_. Princeton University Press, 2014. ISBN: 9780691152844. \[Preview with [Google Books](http://books.google.com/books?id=dEh-BAAAQBAJ&pg=PAfrontcover)\]
+Angrist, Joshua D., and Jörn-Steffen Pischke. _Mastering 'Metrics: The Path from Cause to Effect_. Princeton University Press, 2014. ISBN: 9780691152844. \[Preview with {{% resource_link "97711568-86d1-447f-99a9-ee36998add9c" "Google Books" %}}\]
 
 Required Readings
 -----------------
